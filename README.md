@@ -1,5 +1,5 @@
 ## Hi there 👋
-Prazer, me chamo Guilherme, e sou acadêmico de Matemática Aplicada e Computacional.
+Prazer, me chamo #Guilherme, e sou acadêmico de Matemática Aplicada e Computacional.
 
 Atualmente venho estudando e me dedicando na área de desenvolvimento de software e algoritmos por meio de projetos pessoais.
 
