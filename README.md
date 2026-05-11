@@ -3,7 +3,7 @@ Prazer, me chamo <ins><span style="color:blue">Guilherme</span></ins>, e sou aca
 
 Atualmente venho estudando e me dedicando na área de desenvolvimento de software e algoritmos por meio de projetos pessoais.
 
-Curioso o bastante para querer entender tudo que acontece por debaixo do "pano".
+Curioso o bastante para querer entender tudo que acontece em alto e baixo nível.
 
 Se alguma solução aparecer na minha mente do nada, vou correr para tentar implementar.
 
